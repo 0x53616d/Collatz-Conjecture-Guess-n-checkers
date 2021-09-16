@@ -1,3 +1,5 @@
+# Wrote this app in python because the VB one was inefficient and I assumed python would be faster. This app is basically useless so don't think you're making any useful mathematical contribution or anything of the sort haha. Thanks for checking out my code, feel free to modify it, make a pull request, submit an issue, or do basically whatever you want with this. just don't be a dick, and don't sell this for any reason. also don't sell earlier versions of this app for any reasons. Thank you! Have fun tinkering with my code, or just reading.
+
 # Import sleeping, ended up not using this anyway, because any sleeps harshly limit potential.
 from time import sleep
 
